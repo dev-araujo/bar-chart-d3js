@@ -1,6 +1,6 @@
 # Gŕafico de barras com D3js
 
-Projeto final para o bootcamp [Data Visualization](https://www.freecodecamp.org/learn/data-visualization) do FreeCodeCamp
+Um dos 5 projetos finais para o bootcamp [Data Visualization](https://www.freecodecamp.org/learn/data-visualization) do FreeCodeCamp
 
 [Enunciado dos Requisitos do Projeto](https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-scatterplot-graph)
 
